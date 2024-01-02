@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [CRAWLO Data Intelligence](https://www.crawlo.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moroccan-Ghost?tab=repositories](https://github.com/Moroccan-Ghost?tab=repositories)
+- 👨‍💻 My projects are available at [https://github.com/Moroccan-Ghost?tab=repositories](https://github.com/Moroccan-Ghost?tab=repositories)
 
 - 📫 How to reach me **aiman.elbouayadi@gmail.com**
 
