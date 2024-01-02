@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AIMAN EL BOUAYADI ( Moroccan-Ghost xD )</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h1 align="center">Hi 👋, I'm AIMAN EL BOUAYADI</h1>
+<h2 align="center">Full Stack Engineer</h2>
 
 
 - 🔭 I’m currently working at [CRAWLO Data Intelligence](https://www.crawlo.com)
